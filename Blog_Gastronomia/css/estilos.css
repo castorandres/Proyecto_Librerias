@@ -1,0 +1,40 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  background-size: 100%;
+  background-repeat: repeat;
+  font-family: sans-serif;
+}
+
+.logo-img{
+  width: 80%;
+  float: right;
+}
+
+h3{
+  font-size: 100%;
+  float: right;
+}
+
+#barra{
+  background-color: rgba(255,231,206,0.4);
+}
+
+#contenido{
+  background-color: rgba(255,231,206,0.4);
+}
+
+.menu{
+  background-color: rgba(160,221,254,0.4);
+
+  li{
+    background-color: rgba(159,255,236,0.6);
+
+    &:hover {
+      background-color: lighten(#333, 10%)
+    }
+  }
+
+  a{
+    color: #fff;
+  }
+}

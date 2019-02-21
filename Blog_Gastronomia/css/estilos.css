@@ -204,9 +204,7 @@ ul {
 	clear: both;
 	margin-top: 15px;
 }
-/**
- * Avatar
- ---------------------------*/
+
 .comments-list .comment-avatar {
 	width: 65px;
 	height: 65px;
@@ -240,9 +238,7 @@ ul {
 	display: block;
 	clear: both;
 }
-/**
- * Caja del Comentario
- ---------------------------*/
+
 .comments-list .comment-box {
 	width: 95%;
 	float: right;
@@ -344,9 +340,6 @@ ul {
 	border-radius: 3px;
 }
 
-/** =====================
- * Responsive
- ========================*/
 @media only screen and (max-width: 766px) {
 	.comments-container {
 		width: 95%;

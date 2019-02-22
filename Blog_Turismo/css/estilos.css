@@ -2,3 +2,9 @@ body{
   background-image: url(../img/fondo.jpg);
   background-size: 100%;
 }
+
+.logo img{
+  width: 60%;
+  margin-top: 0.5rem;
+  float: left;
+}

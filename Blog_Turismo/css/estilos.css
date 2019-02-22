@@ -35,8 +35,17 @@ body{
   background-color: rgba(255, 255, 255, 0.7);
 }
 
+#autor{
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+#autor-img{
+  width: 200px;
+  padding: 5px;
+}
+
 #post-img{
-  width: 300px;
+  width: 220px;
   padding: 5px;
 }
 
@@ -44,6 +53,7 @@ body{
   text-align: justify;
   font-size: 20px;
 }
+
 
 @media screen and (max-width:420px) and (max-width:720px){
 .icono {
